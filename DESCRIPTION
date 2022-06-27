@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 Imports: 
     shiny
+URL: https://github.com/alibioinfo/shinytcellapp
+BugReports: https://github.com/alibioinfo/shinytcellapp/issues
